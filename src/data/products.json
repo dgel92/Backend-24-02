@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "title": "Pantalon jeans",
+      "description": "Son bonitos",
+      "category": "pantalones",
+      "price": 16500,
+      "code": "VJ001",
+      "stock": 5,
+      "thumbnails": [
+        "https://http2.mlstatic.com/D_NQ_NP_710801-MLA74327020882_022024-O.webp"
+      ],
+      "status": true
+    },
+    {
+      "id": 2,
+      "title": "Bermudas",
+      "description": "azules",
+      "category": "pantalones",
+      "price": 20000,
+      "code": "VB001",
+      "stock": 5,
+      "thumbnails": [
+        "https://http2.mlstatic.com/D_NQ_NP_697029-MLA71392564028_082023-O.webp"
+      ],
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "remera",
+      "description": "Blanca",
+      "category": "Remeras",
+      "price": 15500,
+      "code": "vr001",
+      "stock": 8,
+      "thumbnails": [
+        "https://http2.mlstatic.com/D_NQ_NP_970447-MLA50896690811_072022-O.webp"
+      ],
+      "status": true
+    }
+  ]
